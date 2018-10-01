@@ -20,7 +20,7 @@ function draw() {
   if (random() > 0.999) {
     noStroke();
     fill(255);
-    rect(-2, -1, width + 2, height-35);
+    rect(-2, -1, width + 2, 170);
     h = 10;
   }
 
